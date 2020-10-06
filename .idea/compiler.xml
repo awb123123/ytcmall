@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ytcmall-common-db" />
+        <module name="ytcmall-common" />
+        <module name="ytcmall-eureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="ytcmail-parent" target="1.8" />
+      <module name="ytcmall-common" target="1.8" />
+      <module name="ytcmall-common-db" target="1.8" />
+      <module name="ytcmall-eureka" target="1.8" />
+      <module name="ytcmall-gateway" target="1.8" />
+      <module name="ytcmall-service" target="1.8" />
+      <module name="ytcmall-service-api" target="1.8" />
+      <module name="ytcmall-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ytcmall-common" options="-parameters" />
+      <module name="ytcmall-common-db" options="-parameters" />
+      <module name="ytcmall-eureka" options="-parameters" />
+      <module name="ytcmall-gateway" options="-parameters" />
+      <module name="ytcmall-service" options="-parameters" />
+      <module name="ytcmall-service-api" options="-parameters" />
+      <module name="ytcmall-web" options="-parameters" />
+    </option>
+  </component>
+</project>

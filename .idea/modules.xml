@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ytcmail-parent/ytcmail-parent.iml" filepath="$PROJECT_DIR$/ytcmail-parent/ytcmail-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ytcmall.iml" filepath="$PROJECT_DIR$/.idea/ytcmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytcmail-parent/ytcmall-common/ytcmall-common.iml" filepath="$PROJECT_DIR$/ytcmail-parent/ytcmall-common/ytcmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytcmail-parent/ytcmall-common-db/ytcmall-common-db.iml" filepath="$PROJECT_DIR$/ytcmail-parent/ytcmall-common-db/ytcmall-common-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytcmail-parent/ytcmall-eureka/ytcmall-eureka.iml" filepath="$PROJECT_DIR$/ytcmail-parent/ytcmall-eureka/ytcmall-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytcmail-parent/ytcmall-gateway/ytcmall-gateway.iml" filepath="$PROJECT_DIR$/ytcmail-parent/ytcmall-gateway/ytcmall-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytcmail-parent/ytcmall-service/ytcmall-service.iml" filepath="$PROJECT_DIR$/ytcmail-parent/ytcmall-service/ytcmall-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytcmail-parent/ytcmall-service-api/ytcmall-service-api.iml" filepath="$PROJECT_DIR$/ytcmail-parent/ytcmall-service-api/ytcmall-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ytcmail-parent/ytcmall-web/ytcmall-web.iml" filepath="$PROJECT_DIR$/ytcmail-parent/ytcmall-web/ytcmall-web.iml" />
+    </modules>
+  </component>
+</project>
